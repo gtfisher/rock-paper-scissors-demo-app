@@ -3,7 +3,7 @@
   Based on this blog postby Jan Kronquist  on aggragate + [Event Sourcing Distilled](https://www.jayway.com/2013/03/08/aggregates-event-sourcing-distilled/)
   this is a demo app that shows CQRS/Event Sourcing Spring Boot Java Application. 
   
-  ## This is still WIP at this time
+## This is still WIP at this time
     
   The Command part works ok as can be seen from the tests, but the GameProjection side and views are not complete.
   
@@ -30,7 +30,7 @@
  
  This example is TBC
  
- ###TODO
+### TODO
  * Add second controller for query side
  * Sort out Event propagation
  * get GameProjection working

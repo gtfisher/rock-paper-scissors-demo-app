@@ -1,6 +1,6 @@
 # Rock Paper Scissors Spring Boot Example App
   
-  Based on this blog postby Jan Kronquist  on aggragate + [Event Sourcing Distilled](https://www.jayway.com/2013/03/08/aggregates-event-sourcing-distilled/)
+  Based on this blog postby Jan Kronquist  on [Aggregate + Event Sourcing Distilled](https://www.jayway.com/2013/03/08/aggregates-event-sourcing-distilled/)
   this is a demo app that shows CQRS/Event Sourcing Spring Boot Java Application. 
   
 ## This is still WIP at this time
